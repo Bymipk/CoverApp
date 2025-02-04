@@ -1,2 +1,2 @@
-# CoverApp
-CoverApp
+# cover-app
+cover-app
